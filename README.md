@@ -1,12 +1,12 @@
 # Vision Transformers for Medical Images with LSA and Shift Packet Tokenization
 
 **Overview 🚀**
-This repository contains an implementation of Vision Transformers (ViTs) specifically designed for processing medical images. The model leverages Latent Semantic Analysis (LSA) and Shift Packet Tokenization to enhance its performance on medical imaging datasets. Vision Transformers have shown remarkable success in computer vision tasks, and this project aims to adapt and optimize them for the unique characteristics of medical images.
+This repository contains an implementation of Vision Transformers (ViTs) specifically designed for processing medical images. The model leverages Locally-Grouped Self-Attention, or LSA and Shift Packet Tokenization to enhance its performance on medical imaging datasets. Vision Transformers have shown remarkable success in computer vision tasks, and this project aims to adapt and optimize them for the unique characteristics of medical images.
 
 **Features 🌟**
 **Vision Transformer Architecture: **The core of the model is based on the Vision Transformer architecture, which has demonstrated state-of-the-art performance on various visual recognition tasks.
 
-**Latent Semantic Analysis (LSA):** LSA is incorporated to capture latent patterns and relationships within the medical images, enabling the model to learn more robust representations.
+**Locally-Grouped Self-Attention, or LSA:** LSA is incorporated to capture latent patterns and relationships within the medical images, enabling the model to learn more robust representations.
 
 **Shift Packet Tokenization:** A novel tokenization technique, called Shift Packet Tokenization, is implemented to handle the specific challenges posed by medical image data. This technique helps the model focus on relevant image features.
 
