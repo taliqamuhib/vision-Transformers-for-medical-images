@@ -3,6 +3,9 @@
 **Overview 🚀**
 This repository contains an implementation of Vision Transformers (ViTs) specifically designed for processing medical images. The model leverages Locally-Grouped Self-Attention, or LSA and Shift Packet Tokenization to enhance its performance on medical imaging datasets. Vision Transformers have shown remarkable success in computer vision tasks, and this project aims to adapt and optimize them for the unique characteristics of medical images.
 
+Clone it! and happy coding!
+
+
 **Features 🌟**
 
 **Vision Transformer Architecture:** The core of the model is based on the Vision Transformer architecture, which has demonstrated state-of-the-art performance on various visual recognition tasks.
